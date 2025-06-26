@@ -11,6 +11,8 @@ I'm currently open to:
 - Freelance project work
 - Open-source collaborations
 
+🧪 Also experienced as a testnet user across multiple chains including Sui — familiar with early tooling, feedback cycles & ecosystem launches.
+
 📫 Contact me via X (Twitter): [@t0mcrown](https://x.com/t0mcr0wn)
 
 
