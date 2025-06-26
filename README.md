@@ -1,6 +1,4 @@
-# Hello 👋
-
-## I am Afolabi Victor Oluwatomisin, a Sui Move Developer
+# Hello 👋! I am Afolabi Victor Oluwatomisin - a Sui Move Developer
 
 I'm a smart contract developer building on the Sui blockchain.
 
