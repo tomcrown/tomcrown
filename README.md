@@ -7,11 +7,11 @@ I'm a smart contract developer focused on building **robust on-chain application
 
 In just a few months, I’ve gone from learning Move to shipping real-world dApps such as:
 
-* 🧾 **Name Service (SuiNS-style)**
-* 🛒 Multi-seller **Marketplace**
-* 🎯 **Batch Airdrop** Contract
-* 🗳️ On-chain **Voting System**
-* 🪙 **Token Modules** & Mint Logic
+*  **Name Service (SuiNS-style)**
+*  Multi-seller **Marketplace**
+*  **Batch Airdrop** Contract
+*  On-chain **Voting System**
+*  **Token Modules** & Mint Logic
 
 ---
 
