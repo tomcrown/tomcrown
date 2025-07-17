@@ -1,17 +1,48 @@
-# 👋Hello, I am Victor Afolabi - a Sui Move Developer
 
-I'm a smart contract developer building on the Sui blockchain.
+---
 
-In just a few months, I’ve gone from zero to launching real-world projects like a Multi-seller marketplace, token, batch airdrop contract which involved combining learning, coding, testing, and scripting into full stack blockchain builds.
+# 👋 Hi, I'm Victor Afolabi — Sui Move Developer
 
-🧪 Also experienced as a testnet user across multiple chains including Sui — familiar with early tooling, feedback cycles & ecosystem launches.
+I'm a smart contract developer focused on building **robust on-chain applications** using Move on the [Sui blockchain](https://sui.io).
 
-## 💼 Open to Collaborations & Roles
-I'm currently open to:
-- Smart contract/dev roles in the Sui ecosystem
-- Freelance project work
-- Open-source collaborations
+In just a few months, I’ve gone from learning Move to shipping real-world dApps such as:
 
-📫 Contact me via X (Twitter): [@t0mcrown](https://x.com/t0mcr0wn)
+* 🛒 Multi-seller **Marketplace**
+* 🎯 **Batch Airdrop** Contract
+* 🗳️ On-chain **Voting System**
+* 🪙 **Token Modules** & Mint Logic
+* 🧾 **Name Service (SuiNS-style)**
+  Each project includes on-chain logic, unit tests, and TypeScript scripting for full-stack usability.
+
+---
+
+## 🛠️ Skills & Tools
+
+![Move](https://img.shields.io/badge/Move-%234285F4?style=for-the-badge\&logo=move\&logoColor=white)
+![Sui](https://img.shields.io/badge/Sui%20Blockchain-5D3FD3?style=for-the-badge\&logo=sui\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Testing-A8A8A8?style=for-the-badge\&logo=github\&logoColor=white)
+![Testnet Experience](https://img.shields.io/badge/Testnet%20Power%20User-00b386?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Smart%20Contract%20%26%20Scripts-F28E1C?style=for-the-badge)
+
+---
+
+## 🤝 Open to Opportunities
+
+I’m currently open to:
+
+* 📜 **Smart contract / protocol roles**
+* 💼 **Freelance or ecosystem projects**
+* 🔧 **Open-source collaborations**
+
+---
+
+## 📫 Contact
+
+* 🐦 Twitter: [@t0mcrown](https://x.com/t0mcr0wn)
+* 💻 GitHub: [github.com/tomcrown](https://github.com/tomcrown)
+
+---
+
 
 
