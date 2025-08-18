@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Victor Afolabi  
 ### Smart Contract Developer 
 
-🌐 [**tomcrown.dev**](https://tomcrown.vercel.app)  
+🌐 [**tomcrown.dev**](https://tomcrown.dev)  
 
 </div>
 
@@ -51,6 +51,6 @@ I’m currently open to:
 
 [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/t0mcr0wn)
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tomcrown.vercel.app)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tomcrown.dev)
 
 ---
