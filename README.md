@@ -1,10 +1,15 @@
+<div align="center">
 
----
+# 👋 Hi, I'm Victor Afolabi  
 
-# 👋 Hi, I'm Victor Afolabi — Sui Move Developer  
-## 🌐 [tomcrown.dev](https://tomcrown.vercel.app)
+**Sui Move Developer | Smart Contract Engineer**
 
----
+[![Website](https://img.shields.io/badge/🌐%20tomcrown.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tomcrown.vercel.app)
+[![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/t0mcr0wn)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/t0mcr0wn)
+
+</div>
+
 
 I'm a smart contract developer focused on building **on-chain applications** using Move on the [Sui blockchain](https://sui.io). My work focuses on building secure, scalable, and developer-friendly protocols.
 
