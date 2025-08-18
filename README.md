@@ -2,7 +2,7 @@
 ---
 
 # 👋 Hi, I'm Victor Afolabi — Sui Move Developer  
-🌐 [tomcrown.dev](https://tomcrown.vercel.app)
+## 🌐 [tomcrown.dev](https://tomcrown.vercel.app)
 
 ---
 
