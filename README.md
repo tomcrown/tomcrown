@@ -23,6 +23,7 @@ I’ve shipped projects such as:
 
 ![Move](https://img.shields.io/badge/Move-1E88E5?style=for-the-badge&logo=move&logoColor=white)
 ![Sui](https://img.shields.io/badge/Sui-5D3FD3?style=for-the-badge&logo=sui&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Smart%20Contracts%20%26%20Scripts-F28E1C?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
