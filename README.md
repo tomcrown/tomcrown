@@ -2,7 +2,8 @@
 
 # 👋 Hi, I'm Victor Afolabi — Sui Move Developer
 
-I'm a smart contract developer focused on building **on-chain applications** using Move on the [Sui blockchain](https://sui.io). My work focuses on building secure, scalable, and developer-friendly protocols.
+I'm a smart contract developer focused on building **on-chain applications** using Move on the [Sui blockchain](https://sui.io). 
+My work focuses on building secure, scalable, and developer-friendly protocols.
 
 I’ve shipped projects such as:
 
