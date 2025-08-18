@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Victor Afolabi  
-### 🛠️ Sui Move Developer | Smart Contract Engineer  
+### Sui Move Developer 
 
 🌐 [**tomcrown.dev**](https://tomcrown.vercel.app)  
 
