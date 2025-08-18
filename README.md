@@ -45,7 +45,7 @@ I’m currently open to:
 
 ---
 
-## 📫 Contact
+## 📫 Let's Build Together
 
 [![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/t0mcr0wn)
 
