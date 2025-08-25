@@ -13,7 +13,7 @@ I’ve shipped projects such as:
 
 *  **Treasury Lock** - A decentralized app that allows users to lock SUI or custom tokens for a fixed period and withdraw only after the lock duration ends.
   
-*  **Crowdfunding** - A decentralized fundraising platform built with Sui Move.
+*  **Fundly** - A decentralized fundraising platform built with Sui Move.
   
 *  **MoveVote** - A voting platform built with Sui Move.
   
