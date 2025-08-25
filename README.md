@@ -12,6 +12,7 @@ I'm a smart contract developer focused on building **on-chain applications** usi
 I’ve shipped projects such as:
 
 *  **Treasury Lock** - A decentralized app that allows users to lock SUI or custom tokens for a fixed period and withdraw only after the lock duration ends.
+*  **Crowdfunding** - A decentralized fundraising platform built with Sui Move.
 *  **MoveVote** - A decentralized voting platform built with Sui Move.
 *  **SuiFaucet** - A user-friendly interface to request test tokens on the Sui network for development and testing purposes.
 *  **Name Service (SuiNS-style)** - A Sui-based decentralized naming service inspired by SuiNS.
