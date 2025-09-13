@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Victor Afolabi  
+# 👋 Hi, I'm Oluwatomisin Afolabi  
 ### Smart Contract Developer 
 
 🌐 [**tomcrown.dev**](https://tomcrown.dev)  
