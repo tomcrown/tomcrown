@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Oluwatomisin Afolabi  
-## Smart Contract Developer 
+### Smart Contract Developer 
 
 ### [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=white)](https://tomcrown.dev)
 
