@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Oluwatomisin Afolabi  
+# 👋 Hi, I'm Oluwatomisin Afolabi (Tom)  
 ### Smart Contract Developer 
 
 🌐 [**tomcrown.dev**](https://tomcrown.dev)  
