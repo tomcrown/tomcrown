@@ -28,7 +28,7 @@ I’ve shipped projects such as:
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 ![Move](https://img.shields.io/badge/Move-1E88E5?style=for-the-badge&logo=move&logoColor=white)
 ![Sui](https://img.shields.io/badge/Sui-5D3FD3?style=for-the-badge&logo=sui&logoColor=white)
@@ -39,7 +39,7 @@ I’ve shipped projects such as:
 
 ---
 
-## 🤝 Open to Opportunities
+## Open to Opportunities
 
 I’m currently open to:
 
@@ -49,7 +49,7 @@ I’m currently open to:
 
 ---
 
-## 📫 Let's Build Together
+## Let's Build Together
 
 [![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/t0mcr0wn)
 
