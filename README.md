@@ -11,7 +11,7 @@ I'm a smart contract developer focused on building **on-chain applications** usi
 
 I’ve shipped projects such as:
 
-*  **Treasury Lock** - A decentralized app that allows users to lock tokens for a fixed period and withdraw only after the lock duration ends. Fully audited and approved by MoveBit.
+*  **Treasury Lock** - A decentralized app that allows users to lock tokens for a fixed period and withdraw only after the lock duration ends. *Fully audited and approved by MoveBit*.
   
 *  **CoinTribute** - A decentralized fundraising platform built with Sui Move.
   
