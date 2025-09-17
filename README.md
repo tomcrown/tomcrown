@@ -55,7 +55,7 @@ I’m currently open to:
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=white)](https://tomcrown.dev)
 
-[![X(Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/t0mcr0wn)
+[![X Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/t0mcr0wn)
 
 
 ---
