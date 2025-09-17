@@ -14,6 +14,8 @@ I’ve shipped projects such as:
 *  **Treasury Lock** - A decentralized app that allows users to lock tokens for a fixed period and withdraw only after the lock duration ends. **Fully audited and approved by MoveBit**.
   
 *  **CoinTribute** - A decentralized fundraising platform built with Sui Move.
+
+*  **Time-Locked Deposit** - A decentralized app that allows users to deposit fungible tokens for a specified duration and release them to recipient only after the lock expires.
   
 *  **MoveVote** - A voting platform built with Sui Move.
   
