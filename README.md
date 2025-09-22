@@ -28,7 +28,7 @@ I’ve shipped projects such as:
 *  **Name Service (SuiNS-style)** - A Sui-based decentralized naming service inspired by SuiNS.
   
   Other notable work:
-*  Multi-seller **Marketplace**
+*  NFT **Marketplace**
 *  **Batch Airdrop** Contract
 *  **Token Modules** & Mint Logic
 
