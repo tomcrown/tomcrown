@@ -14,7 +14,7 @@ I’ve shipped projects such as:
 *  **Treasury Lock** - A decentralized app that allows users to lock tokens for a fixed period and withdraw only after the lock duration ends. **Fully audited and approved by MoveBit**.
   
 
-*  **SuiSafe** - A financial app that enables users to save, stake, and earn interest, all without relying on centralized intermediaries.
+*  **Sentra** - A financial app that enables users to save, stake, and earn interest, all without relying on centralized intermediaries.
   
 *  **CoinTribute** - A decentralized fundraising platform built with Sui Move.
 
