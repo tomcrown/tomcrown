@@ -11,17 +11,16 @@ I'm a smart contract developer focused on building **on-chain applications** usi
 
 I’ve shipped projects such as:
 
-*  **Treasury Lock** - A decentralized app that allows users to lock tokens for a fixed period and withdraw only after the lock duration ends. **Fully audited and approved by MoveBit**.
-  
-
 *  **Sentra** - A financial app that enables users to save, stake, and earn interest, all without relying on centralized intermediaries.
   
-*  **CoinTribute** - A decentralized fundraising platform built with Sui Move.
+*  **Valor** - An AI-powered football stock market where user can buy and sell shares of real players anytime based on real performance data.
 
-*  **Time-Locked Deposit** - A decentralized app that allows users to deposit fungible tokens for a specified duration and release them to recipient only after the lock expires.
+*  **SAM** -  Smart Asset Management (SAM) automatically allocates your funds across staking, liquidity pools, and vaults based on your risk level.
   
-*  **MoveVote** - A voting platform built with Sui Move.
-  
+*  **Tovira** - AI-powered Web3 sidekick. For real-time crypto alerts, insights & on-chain automation.
+
+*  **Treasury Lock** - A decentralized app that allows users to lock tokens for a fixed period and withdraw only after the lock duration ends. **Fully audited and approved by MoveBit**.
+
 *  **SuiFaucet** - A user-friendly interface to request test tokens on the Sui network for development and testing purposes.
   
 *  **Name Service (SuiNS-style)** - A Sui-based decentralized naming service inspired by SuiNS.
