@@ -19,19 +19,22 @@ I’ve shipped projects such as:
  
   **Tech Stack**: Sui Move, Sui SDK, Zklogin, Walrus, AI, Typescript, TailwindCss, React.
 
-*  **SAM** -  Smart Asset Management (SAM) automatically allocates your funds across staking, liquidity pools, and vaults based on your risk level.
-  
-*  **Tovira** - AI-powered Web3 sidekick. For real-time crypto alerts, insights & on-chain automation.
+###  **SAM** -  Smart Asset Management (SAM) automatically allocates your funds across staking, liquidity pools, and vaults based on your risk level.
 
-*  **Treasury Lock** - A decentralized app that allows users to lock tokens for a fixed period and withdraw only after the lock duration ends. **Fully audited and approved by MoveBit**.
-
-*  **SuiFaucet** - A user-friendly interface to request test tokens on the Sui network for development and testing purposes.
+  **Tech Stack**: Sui Move, Sui SDK, Typescript.
   
-*  **Name Service (SuiNS-style)** - A Sui-based decentralized naming service inspired by SuiNS.
+###  **Tovira** - AI-powered Web3 sidekick. For real-time crypto alerts, insights & on-chain automation.
+
+  **Tech Stack**: Sui Move, Sui SDK, Walrus, Seal, Typescript.
+  
+### **Treasury Lock** - A decentralized app that allows users to lock tokens for a fixed period and withdraw only after the lock duration ends. **Fully audited and approved by MoveBit**.
+  **Tech Stack**: Sui Move, Sui SDK.
   
   Other notable work:
 *  NFT **Marketplace**
+*  **SuiFaucet**
 *  **Batch Airdrop** Contract
+*  **Name Service (SuiNS-style)**
 *  **Token Modules** & Mint Logic
 
 ---
