@@ -11,11 +11,13 @@ I'm a smart contract developer focused on building **on-chain applications** usi
 
 I’ve shipped projects such as:
 
-### *  **Sentra** - A financial app that enables users to save, stake, and earn interest, all without relying on centralized intermediaries.
+###   **Sentra** - A financial app that enables users to save, stake, and earn interest, all without relying on centralized intermediaries.
   
   **Tech Stack**: Sui Move, Sui SDK, Typescript, Scallop SDK, Cetus Aggregator.
   
-*  **Valor** - An AI-powered football stock market where user can buy and sell shares of real players anytime based on real performance data.
+###   **Valor** - An AI-powered football stock market where user can buy and sell shares of real players anytime based on real performance data.
+ 
+  **Tech Stack**: Sui Move, Sui SDK, Zklogin, Walrus, AI, Typescript, TailwindCss, React.
 
 *  **SAM** -  Smart Asset Management (SAM) automatically allocates your funds across staking, liquidity pools, and vaults based on your risk level.
   
