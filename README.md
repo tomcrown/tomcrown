@@ -1,7 +1,7 @@
 <div align="center">
 
 # Oluwatomisin Afolabi
-### Sui Smart Contract Engineer
+### Smart Contract Engineer
 
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white)](https://tomcrown.dev)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/t0mcr0wn)
@@ -29,7 +29,7 @@ I build production-grade smart contracts and dApps on Sui. My focus is Move-base
 
 ## Tech Stack
 
-**Core:** Move (Sui) · Rust · TypeScript · React
+**Core:** Move · Rust · TypeScript · React
 
 **Sui Ecosystem:** Sui SDK · zkLogin · Walrus · Seal · Nautilus · Scallop · Cetus · IKA
 
