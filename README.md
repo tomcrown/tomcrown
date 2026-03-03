@@ -38,6 +38,6 @@ I build production-grade smart contracts and dApps on Sui. My focus is Move-base
 ---
 
 ## Open To
-Smart contract roles · Protocol engineering · Sui ecosystem collaborations
+Smart contract roles · Full-stack roles · Protocol engineering · Sui ecosystem collaborations
 
 📩 tomcrown317@gmail.com
