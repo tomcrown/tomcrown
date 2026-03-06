@@ -1,7 +1,7 @@
 <div align="center">
 
 # Oluwatomisin Victor Afolabi
-### Sui Protocol Engineer
+### Sui Developer
 
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white)](https://tomcrown.dev)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/t0mcr0wn)
