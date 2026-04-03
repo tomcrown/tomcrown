@@ -1,10 +1,9 @@
 <div align="center">
 
 # Oluwatomisin Victor Afolabi
-### Sui Developer
+### Blockchain Developer
 
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white)](https://tomcrown.dev)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/t0mcr0wn)
 [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/t0mcr0wn)
 
 </div>
